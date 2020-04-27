@@ -1,0 +1,9 @@
+.container {
+    margin: 200px;
+    display: inline-block;
+    max-width: 400px;
+    text-align: justify;
+}
+p {
+    margin: 10px;
+}
