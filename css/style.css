@@ -1,8 +1,14 @@
+body {
+    text-align: center;
+}
 .container {
-    margin: 200px;
+    margin: 50 px;
     display: inline-block;
-    max-width: 400px;
+    max-width: 100%;
     text-align: justify;
+}
+h1, h3 {
+    margin: 10px;
 }
 p {
     margin: 10px;
